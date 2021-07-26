@@ -5,8 +5,8 @@
     "main.js.map": "/react-three-example-image-tracking-gltf-animation/static/js/main.cfc8d416.chunk.js.map",
     "runtime-main.js": "/react-three-example-image-tracking-gltf-animation/static/js/runtime-main.f2a27e8e.js",
     "runtime-main.js.map": "/react-three-example-image-tracking-gltf-animation/static/js/runtime-main.f2a27e8e.js.map",
-    "static/js/2.72d21797.chunk.js": "/react-three-example-image-tracking-gltf-animation/static/js/2.72d21797.chunk.js",
-    "static/js/2.72d21797.chunk.js.map": "/react-three-example-image-tracking-gltf-animation/static/js/2.72d21797.chunk.js.map",
+    "static/js/2.6a5efe84.chunk.js": "/react-three-example-image-tracking-gltf-animation/static/js/2.6a5efe84.chunk.js",
+    "static/js/2.6a5efe84.chunk.js.map": "/react-three-example-image-tracking-gltf-animation/static/js/2.6a5efe84.chunk.js.map",
     "static/js/3.356f5007.chunk.js": "/react-three-example-image-tracking-gltf-animation/static/js/3.356f5007.chunk.js",
     "static/js/3.356f5007.chunk.js.map": "/react-three-example-image-tracking-gltf-animation/static/js/3.356f5007.chunk.js.map",
     "face_tracking_model.zbin": "/react-three-example-image-tracking-gltf-animation/482727c0e7dd40d73f5aae47f238ad61.zbin",
@@ -14,16 +14,16 @@
     "face_mesh_full_head_simplified_model.zbin": "/react-three-example-image-tracking-gltf-animation/f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
     "index.html": "/react-three-example-image-tracking-gltf-animation/index.html",
     "static/css/main.a52b12a7.chunk.css.map": "/react-three-example-image-tracking-gltf-animation/static/css/main.a52b12a7.chunk.css.map",
-    "static/js/2.72d21797.chunk.js.LICENSE.txt": "/react-three-example-image-tracking-gltf-animation/static/js/2.72d21797.chunk.js.LICENSE.txt",
-    "static/js/worker.979ab92b.worker.js": "/react-three-example-image-tracking-gltf-animation/static/js/worker.979ab92b.worker.js",
-    "static/js/worker.979ab92b.worker.js.map": "/react-three-example-image-tracking-gltf-animation/static/js/worker.979ab92b.worker.js.map",
+    "static/js/2.6a5efe84.chunk.js.LICENSE.txt": "/react-three-example-image-tracking-gltf-animation/static/js/2.6a5efe84.chunk.js.LICENSE.txt",
+    "static/js/worker.b029ce84.worker.js": "/react-three-example-image-tracking-gltf-animation/static/js/worker.b029ce84.worker.js",
+    "static/js/worker.b029ce84.worker.js.map": "/react-three-example-image-tracking-gltf-animation/static/js/worker.b029ce84.worker.js.map",
     "static/media/example-tracking-image.775f3d2f.zpt": "/react-three-example-image-tracking-gltf-animation/static/media/example-tracking-image.775f3d2f.zpt",
     "static/media/waving.2a60fd73.glb": "/react-three-example-image-tracking-gltf-animation/static/media/waving.2a60fd73.glb",
     "zcv/zcv.wasm": "/react-three-example-image-tracking-gltf-animation/zcv/zcv.wasm"
   },
   "entrypoints": [
     "static/js/runtime-main.f2a27e8e.js",
-    "static/js/2.72d21797.chunk.js",
+    "static/js/2.6a5efe84.chunk.js",
     "static/css/main.a52b12a7.chunk.css",
     "static/js/main.cfc8d416.chunk.js"
   ]
